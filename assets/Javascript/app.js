@@ -69,7 +69,7 @@ $(document).ready(function () {
     <td>` + freq + `</td>
     <td>` + arrival + `</td>
 	<td>` + diff + `</td>
-	<td><input type="button"  class="btn btn-danger" id="test" value="Test" data-key="` + key + `"></td>
+	<td><input type="button"  class="btn btn-danger" id="test" value="X" data-key="` + key + `"></td>
     </tr>`);
 	});
 
